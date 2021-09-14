@@ -31,4 +31,9 @@
 
 
     </dependencies>
+    <parent>
+        <groupId>io.github.parentpom</groupId>
+        <artifactId>ppom</artifactId>
+        <version>3.4.6</version>
+    </parent>
 </project>
